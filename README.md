@@ -1,6 +1,10 @@
-### Hi there 👋, Asad Khan
-#### Aspiring Data Scientist
+
 ![Aspiring Data Scientist](https://media-exp1.licdn.com/dms/image/C5616AQHQBG-GdZdL2w/profile-displaybackgroundimage-shrink_200_800/0/1631058129470?e=1637193600&v=beta&t=PEgDZdRXGdoW0xy3hzsc9z5MeHUvH1ComQTWBJJrgK8)
+
+### Hi there 👋, Asad Khan
+
+
+#### Aspiring Data Scientist
 
 Currently, pursuing a Master in Information and Electrical Engineering. An aspiring Data Scientist with an interest in analyzing large datasets with statistical techniques and data analysis.
 I really enjoy learning new things related to Data Science, currently learning to get critical insights from the data using Business Intelligence tools such as Power BI and Tableau
