@@ -4,13 +4,12 @@
 
 #### Aspiring Data Scientist
 
-Currently, pursuing a Master in Information and Electrical Engineering. An aspiring Data Scientist with an interest in analyzing large datasets with statistical techniques and data analysis.
-I really enjoy learning new things related to Data Science, currently learning to get critical insights from the data using Business Intelligence tools such as Power BI and Tableau
+A Master in Information and Electrical Engineering. With over 4 year experience working in the field of AI with expertise ranging from Data Analysis, Data scientist to machine learning with an interest in analyzing large datasets with statistical techniques and data analysis.
+I really enjoy learning new things related to field of AI , currently learning to get critical insights from the data using Business Intelligence tools such as Power BI and Tableau
 
 
 Skills: Python / SQL / Machine learning / Data Visualization / Pandas, Numpy / EDA / Flask / HTML / CSS
 
-- 🔭 I’m currently working on Credit-Card Fraud Detection Dataset 
 - 🌱 I’m currently learning Deep Learning 
 - 👯 I’m looking to collaborate on any project related to Data Science, Data Analysis and Machine Learning  
 - 🤔 I’m looking for help with Data Analysis with Tableau 
