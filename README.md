@@ -1,6 +1,4 @@
 
-![Aspiring Data Scientist](https://media-exp1.licdn.com/dms/image/C5616AQHQBG-GdZdL2w/profile-displaybackgroundimage-shrink_200_800/0/1631058129470?e=1637193600&v=beta&t=PEgDZdRXGdoW0xy3hzsc9z5MeHUvH1ComQTWBJJrgK8)
-
 ### Hi there 👋, Asad Khan
 
 
